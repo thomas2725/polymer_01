@@ -13,7 +13,6 @@ There's some basic information here in the README but a more comprehensive docum
 ## 📋 Prerequisites
 
 The repo is **compatible with both Hardhat and Foundry** development environments.
-
 - Have [git](https://git-scm.com/downloads) installed
 - Have [node](https://nodejs.org) installed (v18+)
 - Have [Foundry](https://book.getfoundry.sh/getting-started/installation) installed (Hardhat will be installed when running `npm install`)
@@ -28,7 +27,6 @@ Some basic knowledge of all of these tools is also required, although the detail
 ## 🧰 Install dependencies
 
 To compile your contracts and start testing, make sure that you have all dependencies installed.
-
 From the root directory run:
 
 ```bash
@@ -298,7 +296,6 @@ We welcome and encourage contributions from our community! Here’s how you can 
 Take a look at the open issues. If there's an issue that has the _help wanted_ label or _good first issue_, those are up for grabs. Assign yourself to the issue so people know you're working on it.
 
 Alternatively you can open an issue for a new idea or piece of feedback.
-
 When you want to contribute code, please follow these steps:
 1. **Fork the Repository:** Start by forking this repository.
 2. **Apply the improvements:** Want to optimize something or add support for additional developer tooling? Add your changes!
