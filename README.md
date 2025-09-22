@@ -300,7 +300,6 @@ Take a look at the open issues. If there's an issue that has the _help wanted_ l
 Alternatively you can open an issue for a new idea or piece of feedback.
 
 When you want to contribute code, please follow these steps:
-
 1. **Fork the Repository:** Start by forking this repository.
 2. **Apply the improvements:** Want to optimize something or add support for additional developer tooling? Add your changes!
 3. **Create a Pull Request:** Once you're ready and have tested your added code, submit a PR to the repo and we'll review as soon as possible.
